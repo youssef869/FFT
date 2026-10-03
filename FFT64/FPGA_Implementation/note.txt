@@ -1,0 +1,1 @@
+FPGA Board name is: XC7A35TICPG236-1L
